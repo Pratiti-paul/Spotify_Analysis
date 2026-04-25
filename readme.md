@@ -50,7 +50,8 @@ Comparison of popularity between explicit and non-explicit tracks.
 ## Technical Project Details
 
 * **Project Name:** Spotify Track Analysis Dashboard
-* **Dataset Scale:** Large-scale Spotify track dataset (multiple genres and features)
+* **Dataset Source:** [Spotify Tracks Dataset (Kaggle)](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset)
+* **Dataset Scale:** Large-scale Spotify track dataset (114,000+ tracks across 125 genres)
 * **Tool Stack:** 
   * **Tableau:** Dashboard & Visualization
   * **Excel:** Data Cleaning & Feature Engineering
