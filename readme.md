@@ -20,11 +20,11 @@ The dashboard supports:
 
 Based on the analyzed dataset:
 
-* **Average Popularity:** 33.24
-* **Average Danceability:** 0.57
-* **Average Energy:** 0.64
+* **Average Popularity:** 51.4
+* **Average Danceability:** 0.60
+* **Average Energy:** 0.62
 * **Average Duration (mins):** 3.80
-* **Explicit Content %:** 8.55%
+* **Explicit Content %:** 13.67%
 
 ---
 
