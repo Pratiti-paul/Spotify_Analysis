@@ -1,6 +1,6 @@
 # 🎧 Spotify Track Analysis Dashboard
 
-![Spotify Dashboard](Assets/Dashboard_Screenshot.png)
+![Spotify Dashboard](/Users/pratitipaul/Desktop/SpotifyAnalysis/Assets/Dashboardpic.png)
 
 ## Project Overview
 
@@ -111,3 +111,6 @@ The dashboard provides a clear, interactive, and data-driven view of music trend
 ---
 
 ## Made with ❤️ by Pratiti Paul
+
+
+[def]: /Users/pratitipaul/Desktop/SpotifyAnalysis/Assets/Dashboardpic.png
