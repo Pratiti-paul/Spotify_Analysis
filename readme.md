@@ -2,7 +2,7 @@
 
 ![Spotify Dashboard](Assets/Dashboard_Screenshot.png)
 
-## 📊 Project Overview
+## Project Overview
 
 This project analyzes Spotify track data to uncover the key factors that influence song popularity. The interactive Tableau dashboard provides insights into how audio features, genres, and content characteristics impact listener engagement and track performance.
 
@@ -16,7 +16,7 @@ The dashboard supports:
 
 ---
 
-## 📌 Snapshot of Key Performance Indicators (KPIs)
+## Snapshot of Key Performance Indicators (KPIs)
 
 Based on the analyzed dataset:
 
@@ -28,7 +28,7 @@ Based on the analyzed dataset:
 
 ---
 
-## 📈 Interactive Visualizations
+## Interactive Visualizations
 
 ### 1. Genre Popularity Analysis
 A comparative bar chart showing average popularity across different music genres, highlighting top-performing categories like *sertanejo*, *pop*, and *k-pop*.
@@ -47,7 +47,7 @@ Comparison of popularity between explicit and non-explicit tracks.
 
 ---
 
-## 🛠 Technical Project Details
+## Technical Project Details
 
 * **Project Name:** Spotify Track Analysis Dashboard
 * **Dataset Scale:** Large-scale Spotify track dataset (multiple genres and features)
@@ -59,13 +59,13 @@ Comparison of popularity between explicit and non-explicit tracks.
 
 ---
 
-## 💼 Business Problem Statement
+## Business Problem Statement
 
 **What factors influence the popularity of a song on Spotify, and how can artists or producers optimize these attributes to improve performance?**
 
 ---
 
-## 🧹 Data Cleaning Process
+## Data Cleaning Process
 
 * **Column Pruning:** Removed unnecessary and index columns to streamline the dataset.
 * **Feature Engineering:** Converted duration from milliseconds to minutes for better readability.
@@ -75,7 +75,7 @@ Comparison of popularity between explicit and non-explicit tracks.
 
 ---
 
-## 📊 Analytical Techniques Used
+## Analytical Techniques Used
 
 * **Aggregation:** Average and Count calculations for core metrics.
 * **Feature Engineering:** Creating derived columns for deeper insights.
@@ -86,7 +86,7 @@ Comparison of popularity between explicit and non-explicit tracks.
 
 ---
 
-## 🎯 Key Insights
+## Key Insights
 
 * **Dance & Energy:** High popularity tracks generally exhibit **higher danceability and energy** levels.
 * **Genre Dynamics:** Certain genres consistently outperform others in terms of engagement and average popularity.
@@ -95,7 +95,7 @@ Comparison of popularity between explicit and non-explicit tracks.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 * `CleanedData/` → Processed dataset used for analysis (`Spotify Track Analysis.xlsx`)
 * `Dashboard/` → Final Tableau Workbook (`SpotifyDashboard.twbx`)
@@ -104,8 +104,10 @@ Comparison of popularity between explicit and non-explicit tracks.
 
 ---
 
-## 🚀 Final Outcome
+## Final Outcome
 
 The dashboard provides a clear, interactive, and data-driven view of music trends, helping identify what makes a track successful on Spotify. It serves as a structured analytical framework to understand and optimize music performance using data.
 
 ---
+
+## Made with ❤️ by Pratiti Paul
